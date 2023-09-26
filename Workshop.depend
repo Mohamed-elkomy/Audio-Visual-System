@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1545472495 source:c:\users\youse\onedrive\desktop\amit\xyz\amit final material\c programming\audiovisual system\workshop\wp.c
+	<stdio.h>
+	<stdlib.h>
+	"wp.h"
+
+1545471014 c:\users\youse\onedrive\desktop\amit\xyz\amit final material\c programming\audiovisual system\workshop\wp.h
+
+1545474734 source:c:\users\youse\onedrive\desktop\amit\xyz\amit final material\c programming\audiovisual system\workshop\main.c
+	<stdio.h>
+	<stdlib.h>
+	"wp.h"
+	"s.h"
+
+1545471895 c:\users\youse\onedrive\desktop\amit\xyz\amit final material\c programming\audiovisual system\workshop\s.h
+
+1545472754 source:c:\users\youse\onedrive\desktop\amit\xyz\amit final material\c programming\audiovisual system\workshop\s.c
+	<stdio.h>
+	<stdlib.h>
+	"s.h"
+
+1545473980 source:c:\users\youse\onedrive\desktop\amit\xyz\amit final material\c programming\audiovisual system\workshop\memory.c
+	<stdio.h>
+	<stdlib.h>
+	"memory.h"
+
+1545473912 c:\users\youse\onedrive\desktop\amit\xyz\amit final material\c programming\audiovisual system\workshop\memory.h
+
